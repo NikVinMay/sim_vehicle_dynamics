@@ -1,3 +1,6 @@
+> 📝 **Note by Nikhil**  
+> This repository is a **fork** of the original TUMFTM/sim_vehicle_dynamics project.  
+> I am using it to learn vehicle dynamics simulation, combine mechanical engineering intuition with computational modelling, and gradually build my own simplified simulation versions in Python.
 # Vehicle Dynamics Simulation Software of TUM Autonomous Motorsport
 
 ### Overview
